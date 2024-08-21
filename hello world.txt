@@ -1,5 +1,7 @@
-print("Hello world!")
-print("Hello everybody!")
-print("!!!")
-print("Hello my dear friend!")
-print("!!!")
+<<<<<<< HEAD
+print("Hello world!");
+print("Hello everybody!");
+print("!!!");
+print("Hello my dear friend!");
+print("!!!");
+
